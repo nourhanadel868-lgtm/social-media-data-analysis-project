@@ -4,7 +4,7 @@
 This project focuses on analyzing social media performance data to uncover insights into user engagement, content performance, and platform effectiveness.  
 The analysis was performed using **SQL**, **Python**, **Power Query**, and **Power BI**, resulting in an interactive and visually compelling dashboard.
 
-![Social Media Dashboard](Dashboard.png)
+![Social Media Dashboard](Images/Dashboard.png)
 
 ## Objectives
 - Clean and prepare raw social media data for analysis.
